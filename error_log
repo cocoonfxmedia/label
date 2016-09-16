@@ -1,0 +1,2 @@
+[15-Sep-2016 23:38:07 Europe/London] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/iisuk/industrialprinterscan.uk/cache/smarty/cache/homefeatured_tab/1/17/2e/ad/0d/wrt57db22cf92e844_37512712 <-- 
+  thrown in /home/iisuk/industrialprinterscan.uk/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
